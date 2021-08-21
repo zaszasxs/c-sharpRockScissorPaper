@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharpRockScissorPaper", "c-sharpRockScissorPaper\c-sharpRockScissorPaper.csproj", "{438F41C4-18A7-4FF1-950C-C4BC81A3308A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438F41C4-18A7-4FF1-950C-C4BC81A3308A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438F41C4-18A7-4FF1-950C-C4BC81A3308A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438F41C4-18A7-4FF1-950C-C4BC81A3308A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438F41C4-18A7-4FF1-950C-C4BC81A3308A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56051BE8-1417-422C-8B9D-CBC9DDD6C7DE}
+	EndGlobalSection
+EndGlobal
